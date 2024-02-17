@@ -22,4 +22,4 @@ Welcome to the Dominick’s Finer Food Data Warehouse project! This project init
 - **ETL Tool:** SSIS (SQL Server Integration Services)
 - **Data Visualizations:** SSRS (SQL Server Reporting Services), SSAS (SQL Server Analysis Services), Report Builder, Power BI
 
-Feel free to explore this project further through a comprehensive project report. Let's continue transforming data into actionable insights together! 🚀
+Feel free to explore this project further through the project report. Let's continue transforming data into actionable insights together! 🚀
